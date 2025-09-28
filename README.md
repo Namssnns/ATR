@@ -7,4 +7,4 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Se
 
 ## Credits
 
-Portions of this project are based on [ReTwisted](https://github.com/Okmada/ReTwisted) by @Okmada.
+Portions of this project were created or based on [ReTwisted](https://github.com/Okmada/ReTwisted) by @Okmada.
